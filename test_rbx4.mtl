@@ -32,7 +32,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd Tx.lua
+map_Kd TX.lua
 
 newmtl Torso_with_pantyhose
 Ns 200.000000
