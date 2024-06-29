@@ -10,7 +10,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 3
-map_Kd hair_back_M_BC.jpg
+map_Kd hair_back_M_BC.lua
 
 newmtl Mercy_Nails
 Ns 250.000000
@@ -21,7 +21,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd body_base_000.jpg
+map_Kd body_base_000.lua
 
 newmtl TX
 Ns 360.000000
@@ -32,7 +32,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd Tx.png
+map_Kd Tx.lua
 
 newmtl Torso_with_pantyhose
 Ns 200.000000
@@ -43,7 +43,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 3
-map_Kd SR_body_R18.png
+map_Kd SR_body_R18.lua
 
 newmtl 上衣
 Ns 448.793091
@@ -54,7 +54,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 3
-map_Kd coat_M_BC.jpg
+map_Kd coat_M_BC.lua
 
 newmtl 上衣-金属2
 Ns 448.793091
@@ -65,7 +65,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 3
-map_Kd coat_addon_M_BC.jpg
+map_Kd coat_addon_M_BC.lua
 
 newmtl 前髪
 Ns 448.793091
@@ -76,7 +76,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 3
-map_Kd hair_front_M_BC.jpg
+map_Kd hair_front_M_BC.lua
 
 newmtl 新規材質1
 Ns 263.416626
@@ -87,7 +87,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 3
-map_Kd head_face_M_BC.jpg
+map_Kd head_face_M_BC.lua
 
 newmtl 盖髪
 Ns 448.793091
@@ -98,7 +98,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 3
-map_Kd hair_side_M_BC.jpg
+map_Kd hair_side_M_BC.lua
 
 newmtl 眼白
 Ns 448.793091
@@ -109,7 +109,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 3
-map_Kd head_face_M_BC.jpg
+map_Kd head_face_M_BC.lua
 
 newmtl 瞳
 Ns 448.793091
@@ -120,7 +120,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 3
-map_Kd head_eye_M_BC.jpg
+map_Kd head_eye_M_BC.lua
 
 newmtl 胸饰
 Ns 448.793091
@@ -131,7 +131,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 3
-map_Kd bag_M_BC.jpg
+map_Kd bag_M_BC.lua
 
 newmtl 胸饰-金属2
 Ns 448.793091
@@ -142,7 +142,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 3
-map_Kd bag_addon_M_BC.jpg
+map_Kd bag_addon_M_BC.lua
 
 newmtl 袜
 Ns 448.793091
@@ -153,7 +153,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 3
-map_Kd bottom_M_BC.jpg
+map_Kd bottom_M_BC.lua
 
 newmtl 靴
 Ns 448.793091
@@ -164,7 +164,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 3
-map_Kd shoe_M_BC.jpg
+map_Kd shoe_M_BC.lua
 
 newmtl 靴-金属_
 Ns 448.793091
@@ -175,7 +175,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 3
-map_Kd shoe_M_BC.jpg
+map_Kd shoe_M_BC.lua
 
 newmtl 髪饰
 Ns 448.793091
@@ -186,4 +186,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 3
-map_Kd earphone_M_BC.jpg
+map_Kd earphone_M_BC.lua
